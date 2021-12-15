@@ -1,0 +1,83 @@
+.header {
+    background-color: rgb(20, 114, 78);
+    height: 100px;
+    width: 1265px;
+}
+.header a {
+    float : right;
+    font-size: 25px;
+    padding-right: 20px;
+    padding-top: 60px;
+    color: white;
+}
+.header-logo {
+    float : left;
+    font-size: 50px;
+    padding: 14px 40px;
+    color: white;
+}
+.title {
+    font-size: 45px;
+    padding-left: 15px;
+    background-color: greenyellow;
+    color: rgb(0, 75, 0);
+}
+.selected1 {
+    margin: 20px 330px;
+    height: 450px;
+    width: 600px;
+}
+.selected2 {
+    padding: 0px 10px 100px 10px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.selected3 {
+    padding: 0px 10px 10px 10px;
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+.footer {
+    background-color: rgba(44, 196, 163, 0.884);
+    height: 50px;
+    width: 1260px;
+}
+h1 {
+    font-size: 15px;
+    padding: 15px 0px 0px 500px
+}
+h2 {
+    color: green;
+    font-size: 32px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h3 {color: green;
+    font-size: 32px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h4 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h5 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+p1 {
+    font-size: 20px;
+}
+p2 {
+    font-size: 20px;
+}
+p3 {
+    font-size: 20px
+}
+p4 {
+    font-size: 20px;
+}
