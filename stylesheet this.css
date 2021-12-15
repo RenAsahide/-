@@ -1,0 +1,57 @@
+.header {
+    background-color: rgb(20, 114, 78);
+    height: 100px;
+    width: 1265px;
+}
+.header-logo {
+    font-size: 50px;
+    padding: 14px 40px;
+    color:rgb(255, 255, 255)
+}
+h1 {
+    color: orange;
+    font-size: 50px;
+    padding: 20px 240px;
+}
+h2 {
+    padding: 10px 80px;
+}
+img {
+    width: 240px;
+    height: 150px;
+}
+.contents {
+    margin-bottom: 400px;
+    margin-left: 195px;
+    margin-right: 195px;
+}
+.contents-item {
+    float: left;
+    padding: 0px 10px;
+}
+.selected1 {
+    color: red;
+    font-size: 40px;
+    padding-right: 40px;
+}
+.selected2 {
+    color: blue;
+    font-size: 40px;
+}
+.selected3 {
+    color: green;
+    font-size: 40px;
+}
+.selected4 {
+    color: brown;
+    font-size: 40px;
+}
+.footer {
+    background-color: rgba(44, 196, 163, 0.884);
+    height: 50px;
+    width: 1260px;
+}
+h6 {
+    font-size: 15px;
+    padding: 15px 0px 0px 500px;
+}
